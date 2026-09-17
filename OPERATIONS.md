@@ -40,7 +40,7 @@ Before a write-enabled rollout, record the current controller configuration and
 an approved zone inventory. Reverting a manifest does not automatically restore
 all DNS records changed by a previous reconciliation.
 
-## Development note
+## Attribution
 
-This review guide was added with AI assistance. Upstream code, licenses and
+Upstream code, licenses and
 contributor attribution remain unchanged.
